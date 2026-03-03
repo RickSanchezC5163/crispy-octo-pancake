@@ -17,3 +17,4 @@
 - `materials/previous-year/骞翮沃野，智耕未来——多元模型下农业无人机应用现状与未来发展策略.pdf`
 - `materials/topic-background/具身智能发展趋势与展望.pdf`
 - `planning/2026正大杯_具身智能赛题重构策划案.md`
+
